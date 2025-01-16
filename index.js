@@ -1,3 +1,6 @@
+
+console.log('lee archivos de json en forma sincrona y asincrona')
+
 let _fs
 try {
   _fs = require('graceful-fs')
